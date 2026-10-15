@@ -18,6 +18,7 @@ logs/
 *.zip
 *.tar.gz
 *.rar
+*.cfg
 
 # ===== Virtual machine crash logs =====
 hs_err_pid*
