@@ -1,3 +1,2 @@
 @echo off
-java -jar joom.jar
-pause
+start "" javaw -jar joom.jar
